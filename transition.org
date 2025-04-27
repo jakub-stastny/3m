@@ -45,6 +45,86 @@
     The system we built depends on infinite extraction and infinite growth in a finite, living world that cannot support either.
   #+end_quote
 
+** How global economy works
+*** Mechanics of the Global Economy and Globalisation
+
+The global economy is the system of interlinked national economies, connected through flows of trade, finance, labour, and resources. When a farmer grows wheat in the US, sells it to China, and China uses the earned dollars to buy US bonds, we are seeing global economic interdependence in action. This integration increases efficiency but also systemic fragility, as local crises can ripple worldwide.
+
+Globalisation is the historical process that accelerates this integration. It began with early colonial trading companies like the Dutch and British East India Companies in the 16th–17th centuries, expanded with the Industrial Revolution and colonial empires in the 19th century, and matured post-1945 through managed globalisation (Bretton Woods system). After 1990, deregulation and financial technologies led to hyperglobalisation: instant capital flows, fragmented supply chains, and high interdependency.
+
+Key drivers of globalisation include:
+- Lowering trade barriers (tariffs, regulations).
+- Expanding financial systems and institutions (IMF, World Bank, WTO).
+- Constructing global supply chains for cost efficiency.
+
+*** Unsustainability: Fiat, Globalisation, and the Separation of Value from Life
+
+The roots of modern unsustainability lie deeper than fiat money or globalisation policies. They are symptoms of an older fracture: the metaphysical separation of value from life.
+
+Originally, value was directly tied to life: the fertility of land, the health of herds, the productivity of labour. Wealth was tangible, seasonal, and grounded in the realities of survival and interdependence with nature. Over time, however, value became abstracted into symbols — first money, then shares, debts, financial derivatives — which could be traded, speculated upon, and accumulated independently of life's natural rhythms.
+
+This separation has profound consequences:
+- Fiat currency enables theoretically infinite money creation, untethered from physical production or land.
+- Globalisation enables the commodification and extraction of life — labour, ecosystems, communities — for maximum financial return.
+- Speculation becomes detached from physical stewardship or regenerative cycles.
+
+Fiat money fuels hyperglobalisation by providing abundant, mobile capital chasing speculative profits. Globalisation, in turn, externalises the true costs onto distant lands, exploited workers, and the degraded environment.
+
+*** Gold Standard, Great Depression, and Monetary Rigidity
+
+Under the classical gold standard (pre-1914), currencies were pegged to gold reserves. This theoretically limited inflation and disciplined governments from overspending. However, it also introduced dangerous rigidity: when the economy expanded, the money supply could not expand fast enough; when a crisis hit, liquidity could not be injected flexibly.
+
+The post-WWI attempts to return to the gold standard at overvalued exchange rates exacerbated this problem. When the 1929 stock market crash occurred, the gold anchor prevented central banks from expanding credit, deepening the global depression.
+
+The core lesson is that:
+- Excessive monetary rigidity suffocates the real economy in times of stress.
+- Excessive monetary looseness (fiat without constraint) leads to delusion, bubbles, and collapse.
+
+Thus, monetary systems must stay in balance with the living economy: tied enough to reality to maintain trust, but flexible enough to respond to life's natural volatility.
+
+*** Globalisation: Sustainability or Exploitation?
+
+In theory, globalisation could have enabled a more interconnected, cooperative world where cultures exchange goods, knowledge, and technologies for mutual benefit. In practice, it has almost always favoured speculation and exploitation.
+
+Globalisation as practised involves:
+- Capital speculating on short-term profits without responsibility for long-term outcomes.
+- Labour arbitrage: shifting production to wherever wages, protections, and ecological regulations are weakest.
+- Ecological degradation and social disintegration as externalised costs.
+
+A sustainable form of globalisation would require:
+- True-cost accounting (internalising ecological and human costs).
+- Strengthened local resilience and autonomy.
+- Ethical, ecological, and financial limits on speculative capital movements.
+
+In the absence of these structures, globalisation today operates fundamentally as an exploitative system, undermining its own foundations.
+
+*** Fiat: Root Cause or Symptom?
+
+Fiat money is not the original cause of systemic unsustainability. It is an accelerant — a mechanism that magnifies deeper forces already at play.
+
+The deeper root is the metaphysical separation of value from life itself. Even before fiat currencies, we see speculative bubbles (e.g., the Dutch tulip mania), exploitative colonial trade, and financialised abstraction through bonds and stock companies. Fiat merely removes the last remaining brakes, enabling infinite financial abstraction with no real-world constraints.
+
+The structure of the issue can be summarised:
+- Fiat = accelerant
+- Globalisation = network
+- Speculation and exploitation = dynamic
+- Separation of value from life = original cause
+
+*** Final Framing
+
+The crises of today — financial instability, ecological collapse, social fragmentation — are not merely the result of "bad money" or "bad policies." They are the terminal symptoms of a civilisation that, centuries ago, chose to pursue infinite accumulation of symbolic wealth while abandoning stewardship of the living Earth.
+
+Until value is once again re-anchored in life — land, ecosystems, communities, real production — any system, whether gold-based or fiat-based, will remain fundamentally unstable and unsustainable.
+
+* Oneness
+
+In the beginning, human beings lived naturally within Oneness. There was no sharp division between self and world, between the river and the one who drank from it, between the tree and the one who rested under it. Life simply was, and it was enough. The land, the animals, the seasons, the community — all were part of one living whole, and value was not separated from life itself. There was no need to think about meaning, ownership, or control; existence was its own fulfilment.
+
+Over time, however, a sense of separation crept in. Humans began to see themselves as distinct from the rest of life, standing apart rather than within. From this separation grew fear, desire, and the urge to possess and control. Wealth shifted from being the natural abundance of life to symbols that could be accumulated — gold, money, property — even at the cost of harming the very life that once sustained them. The original unity was forgotten, and in its place arose the endless pursuit of abstract value, setting the stage for exploitation, ecological destruction, and inner emptiness.
+
+Many traditions have preserved the memory of this lost Oneness. In the Bible, Adam and Eve’s expulsion from Eden symbolises the moment when innocence gave way to self-conscious grasping. In Buddhism, the endless cycle of craving and suffering — Samsara — arises from mistaking illusion for reality. In Hinduism, the age of Kali Yuga marks the decline into conflict and forgetting. Across cultures, the message is clear: paradise was not a place, but a state of being in harmony with life, and separation from it is the root of all suffering.
+
+John Milton’s Paradise Lost echoes this deep pattern. It portrays how pride, the desire for independence from the whole, leads to a tragic exile from natural harmony. It is not merely a religious tale but a psychological truth: the loss of Oneness brings sorrow, but it also plants the seed of longing. Through awareness, humility, and remembrance, we are called to find our way back — not to the unconscious unity we once had, but to a conscious reunion with life, where value and life are once again one.
 
 
 # CDMX water collapse
