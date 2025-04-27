@@ -6,28 +6,28 @@
 
   The objective of this document is not to spread fear: it may trigger such reaction in people, but personally I see this as a long-overdue transition that will reset the balance in the world and will take us from greed and usurpance towards humility and connection: to the Earth, the Spirit and each other. By getting an understanding of these changes, we are able to build systems that will allow us to trive and prosper in the coming era.
 
-* How are things going?
-** Financial system collapse
+** How are things going?
+*** Financial system collapse
 
   Imagine a world where your money still exists on a screen — but it buys you less every week. This is already happening: the dollar, once the pillar of global trade, is being abandoned quietly by countries striking deals in their own currencies. Meanwhile, debt has piled up so high that even the US struggles to pay interest without printing more money, devaluing it further. As trust erodes, so does the global web of trade and stability it underpins. Without a trusted financial heart, the arteries of food, fuel, and materials clog and break. Collapse isn’t about Wall Street crashing in a day; it’s about daily life slowly grinding to a halt as nothing quite works anymore.
 
-** End of cheap oil
+*** End of cheap oil
 
   Energy is like oxygen for civilisation: invisible, taken for granted, vital. Yet the era of cheap, easily-extracted oil — the kind that built cities, grew food, and powered armies — is over. What’s left is dirtier, harder to reach, and more expensive. Shale oil kept the illusion alive for a while, but it’s faltering. Every time oil prices spike, everything else does too: food, transport, medicine. Think of it this way: without affordable oil, feeding cities like Mexico City or New York becomes an engineering nightmare, not a routine operation. And no amount of solar panels or wishful thinking can rebuild that overnight.
 
-** Water scarcity
+*** Water scarcity
 
   Imagine Cape Town, 2018: a modern city almost reaching “Day Zero,” when taps would run dry and citizens would line up with buckets. Now multiply that. Cities from Los Angeles to São Paulo to parts of India are running unsustainably on vanishing groundwater and shrinking rivers. Climate chaos accelerates the problem, but the real killer is overuse. Farms and cities alike are pumping water faster than nature can replenish. When the water runs out, life doesn’t “adjust” — it collapses. No water, no food, no industry. And the migrations, conflicts, and chaos that follow won’t respect borders.
 
-** Soil degradation
+*** Soil degradation
 
   Picture the American Midwest, once the world’s breadbasket, now losing soil 10 to 50 times faster than nature can rebuild it. This is not just about dust; it’s about the collapse of the living skin of the Earth. Without rich topsoil, crops fail even if it rains and even if seeds are sown. Add chemical dependence and monocultures, and the soil turns to sterile dust or poison. When Rome fell, it was partly because its farms wore out the land. Today, the stakes are global. You can’t print new soil or replace it with machines. When the soil dies, so does civilisation.
 
-** Extreme weather
+*** Extreme weather
 
   Floods that used to happen once a century now drown cities every few years. Droughts parch once-fertile lands into cracked deserts. Heatwaves cook crops in the fields and kill thousands in places where air conditioning was once thought unnecessary. From California’s year-round fire season to Pakistan’s drowned fields, extreme weather is no longer “extreme” — it’s the new background hum. Infrastructure built for a mild, stable climate cannot cope: roads buckle, grids fail, houses wash away. As weather becomes unpredictable, everything depending on predictability — farming, logistics, insurance, governance — begins to fray.
 
-* The age of self-destruction
+** The age of self-destruction
 
   It doesn't take a genius to know that things are just not alright. The few examples from above are to drive that point home, but it's something we all deep down know: that what is going on is not sustainable. It's the greed that fuels more destruction and moral bankrupcy and moral bankrupcy is a great litmus test of where we are at.
 
@@ -37,6 +37,13 @@
 
   Our mindset is the root of what we do. If we seeks to enrich ourselves on the expense of others, people and land alike, we will design systems that will allow us just that (spoiler: that's the cornerstone of current dollar-based economics). However, these systems have that "moral rot" embedded in them and are ultimately brittle and due to fail.
 
+  Perhaps, this link may not be so readily understood by everyone. It's superficially obvious to a certain point, but the true depth of this is very hard to see. Any kind of (true) spiritually, be it about harmony with nature such as in Shamanism or Indian sage's path to enlightenment will make one (eventually) trully appreciate this.
+
+  So here comes the punchline:
+
+  #+begin_quote
+    The system we built depends on infinite extraction and infinite growth in a finite, living world that cannot support either.
+  #+end_quote
 
 
 
