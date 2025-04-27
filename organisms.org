@@ -69,15 +69,50 @@
   | Blackberry         | ✅ | p  | ❌ | ✅ | ✅ | ✅ | -5°C   | 30°C | 60–80%  |
   | Raspberry          | ✅ | ⚠️  | ❌ | ✅ | ✅ | ✅ | -10°C  | 28°C | 60–80%  |
   | Mulberry           | ✅ | p  | 💦 | ✅ | p  | ⚠️  | -5°C   | 30°C | 40–70%  |
-  | Lettuce            | ✅ | ⚠️  | ⚠️  | ✅ | ✅ | ✅ | 4–18°C | 26°C | 60–80%  |
-  | Spinach            | ✅ | ⚠️  | ⚠️  | ✅ | ✅ | ✅ | 4–18°C | 26°C | 60–80%  |
-  | Broccoli           | ✅ | ⚠️  | ❌ | ✅ | ✅ | ✅ | 4–20°C | 28°C | 60–80%  |
-  | Carrot             | ✅ | ⚠️  | ⚠️  | ✅ | ✅ | ✅ | 4–20°C | 30°C | 50–80%  |
-  | Cabbage            | ✅ | ⚠️  | ❌ | ✅ | ✅ | ✅ | 4–20°C | 28°C | 60–80%  |
   | Eureka Lemon       | ✅ | ⚠️  | 💦 | ✅ | ⚠️  | ❌ | 5°C    | 35°C | 40–60~% |
   | Orange (Valencia)  | ✅ | ⚠️  | 💦 | ✅ | ⚠️  | ❌ | 5°C    | 35°C | 40–60~% |
   | Highland Mandarine | ✅ | ⚠️  | ⚠️  | ✅ | ✅ | ❌ | 0–2°C  | 32°C | 40–70%  |
   |----------------------------------------------------------------------------|
+
+
+** Vegetables
+
+  |----------------------------------------------|
+  | Plant              | Min    | Max  | RH      |
+  |--------------------|--------|------|---------|
+  | Lettuce            | 4–18°C | 26°C | 60–80%  |
+  | Spinach            | 4–18°C | 26°C | 60–80%  |
+  | Broccoli           | 4–20°C | 28°C | 60–80%  |
+  | Carrot             | 4–20°C | 30°C | 50–80%  |
+  | Cabbage            | 4–20°C | 28°C | 60–80%  |
+  |----------------------------------------------|
+
+- Squash = general term for all Cucurbita plants (includes pumpkins, zucchinis, butternut, etc.).
+- Zucchini (spelled like that) = a type of summer squash (Cucurbita pepo), harvested immature, green and soft.
+- Pumpkin = a type of winter squash, usually round and orange, harvested mature with hard skin.
+- Loofah (estropajo)
+
+- acelga (Swiss chard)
+- root parsley (korenova petrzelka, fairly Eastern EU-specific)
+- parsley
+- parsnip (vypada jako korenova petrzelka, ale je to jiny)
+- chives (pazitka)
+- garlic
+- cesnek medvedi
+- cilantro
+- cibule (bila, purple)
+- Horseradish
+
+- cardo mariano
+- levandule
+- rosemary
+- materidouska
+- thyme
+
+- wallnut
+- hazelnut
+
+- lilac (H)
 
 * Mobile Plants
 ** Dry Season
