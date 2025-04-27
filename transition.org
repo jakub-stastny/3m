@@ -1,71 +1,86 @@
-* Introduction
+#+TITLE: Collapse Awakening
 
-  This document seeks to analyse the current collapse of the global economic, political and societal systems, describe their root causes, provide summaries of already existing theories (such as the Fourth turning and others), offer prognosis and above all, will shed light on the way forward. The way forward is already well on the way, has been for decades, yet it's so understated most don't realise that it is our future.
+* Introduction: A Time of Collapse and Reckoning
 
-  What most prognosis are missing is considering the overall energetic climate. We cannot just "do whatever we want", that's not how things work. There are different cosmic energies coming to Earth at different times and we have to work within them. I will try to syncretise between systems, but I found Human design's description to the Cross of Sleeping Phoenix particularly enlightening.
+The collapse of our global systems was never a question of *if* — only *when*. Built on endless growth in a finite world, they were designed to fail. Debt spirals, ecological exhaustion, social disintegration: the cracks are now impossible to hide.
 
-  Any prognosis that's oblivious to the cosmic energies is missing the mark. Our reality is co-created, that is the Universe puts one bit, the other bit comes from us. Free will has limits, but life isn't completely predestined either. It's a mix of both.
+We live in a world where millions are chronically lonely despite being hyper-connected, where rainforests are traded for short-term profit, where economic "growth" often measures destruction more than creation. These are not glitches; they are features of a system that has reached the end of its cycle.
 
-  By trying to create prognosis without the cosmic bid, we are using what we know, that is the status quo, the thing that's inherently wrong with the current situation. We argue which country will have global hegemony now, arguing it's probably going China. But it won't be. It may be at most temporarily, but it won't last more than few short years. The future is just so much more magnificent and hopeful that we could ever imagine without understanding the cosmic patterns.
+This document draws on the study of failed empires, historical patterns like the Fourth Turning, and deeper energetic frameworks that most analyses ignore. Collapse is not random. It follows predictable arcs — both material and spiritual.
 
-  The objective of this document is not to spread fear: it may trigger such reaction in people, but personally I see this as a long-overdue transition that will reset the balance in the world and will take us from greed and usurpance towards humility and connection: to the Earth, the Spirit and each other. By getting an understanding of these changes, we are able to build systems that will allow us to thrive and prosper in the coming era.
+The goal here is not to mourn what’s dying, but to understand why it’s happening, what forces are shaping the transition, and how we can move wisely through it. The future will not be built by the institutions that caused the collapse. It will be built by individuals who see clearly and act with grounded courage.
 
-  The most important change is that it's you who has to make the change happen for you and the world at large: you have been lied to and used for decades by governments, international organisations and companies. And the odds are, you also willingly participated in propelling this Titanic forwards, despite knowing that it's just not right and that by doing so you were complice in allowing our precious Earth being looted for profit.
+No saviour is coming. The responsibility, and the opportunity, are ours. Will you take it?
 
-  We all did. It's time to change that. No saviour is coming. We all have to do our bit individually, we all have to take responsability. Enough's enough.
+* Signs of Systemic Failure
 
-** How are things going?
-*** Financial system collapse
+** Financial System Breakdown
 
-  Imagine a world where your money still exists on a screen — but it buys you less every week. This is already happening: the dollar, once the pillar of global trade, is being abandoned quietly by countries striking deals in their own currencies. Meanwhile, debt has piled up so high that even the US struggles to pay interest without printing more money, devaluing it further. As trust erodes, so does the global web of trade and stability it underpins. Without a trusted financial heart, the arteries of food, fuel, and materials clog and break. Collapse isn’t about Wall Street crashing in a day; it’s about daily life slowly grinding to a halt as nothing quite works anymore.
+The U.S. is burning trust faster than dollars. Massive money printing, reckless spending, and Trump’s new tariffs have only sped things up. Countries are ditching the dollar, trading in anything else they can. Meanwhile, within about 10 years, nearly all tax revenue will be eaten by debt interest and Medicare alone — leaving nothing for anything else. Faith in the system is draining fast. Without trust, the dollar dies. Without the dollar, the U.S. can't function.
 
-*** End of cheap oil
+Fixing it means touching the untouchable. Raise taxes? Political suicide. Cut Medicare or Social Security? Same. Slash military spending? Not a chance. Meanwhile, stunts like Musk pushing DOGE are pure smokescreen — they fix nothing, but make it look like something's happening. The real problems are locked in and nobody dares touch them. The ship is at full speed, the iceberg is dead ahead, and the wheel is stuck. Everyone is busy arguing, but the crash is already certain.
 
-  Energy is like oxygen for civilisation: invisible, taken for granted, vital. Yet the era of cheap, easily-extracted oil — the kind that built cities, grew food, and powered armies — is over. What’s left is dirtier, harder to reach, and more expensive. Shale oil kept the illusion alive for a while, but it’s faltering. Every time oil prices spike, everything else does too: food, transport, medicine. Think of it this way: without affordable oil, feeding cities like Mexico City or New York becomes an engineering nightmare, not a routine operation. And no amount of solar panels or wishful thinking can rebuild that overnight.
+And if you think this doesn’t matter because you’re not in the U.S., think again. In a globalised world, everything is linked — finance, trade, supply chains. It’s not like the old days when one country could sink without dragging others down. Today it’s all one pond. When the dollar goes, the shockwaves hit everyone.
 
-*** Water scarcity
+** End of Cheap Oil
 
-  Imagine Cape Town, 2018: a modern city almost reaching “Day Zero,” when taps would run dry and citizens would line up with buckets. Now multiply that. Cities from Los Angeles to São Paulo to parts of India are running unsustainably on vanishing groundwater and shrinking rivers. Climate chaos accelerates the problem, but the real killer is overuse. Farms and cities alike are pumping water faster than nature can replenish. When the water runs out, life doesn’t “adjust” — it collapses. No water, no food, no industry. And the migrations, conflicts, and chaos that follow won’t respect borders.
+The modern world runs on oil — and the cheap stuff is gone. What’s left is buried deep, dirtier, harder to reach, and costs far more to pull out. Shale oil kept the illusion alive for a while, but it’s already cracking. When oil prices jump, everything jumps: food, transport, medicine, heating, industry. Without cheap oil, cities choke, supply chains break, farming collapses. Feeding places like New York or Mexico City stops being logistics — it becomes survival. Solar panels and electric cars won’t fix it. They run on supply chains too, and those chains are already snapping.
 
-*** Soil degradation
+** Water Scarcity
 
-  Picture the American Midwest, once the world’s breadbasket, now losing soil 10 to 50 times faster than nature can rebuild it. This is not just about dust; it’s about the collapse of the living skin of the Earth. Without rich topsoil, crops fail even if it rains and even if seeds are sown. Add chemical dependence and monocultures, and the soil turns to sterile dust or poison. When Rome fell, it was partly because its farms wore out the land. Today, the stakes are global. You can’t print new soil or replace it with machines. When the soil dies, so does civilisation.
+In dry climates, rivers and dams aren't the main source of water — it's underground aquifers. These natural reservoirs take centuries to fill but can be emptied in decades. When overdrawn, the ground above sinks, and the aquifer's capacity to hold water diminishes permanently. Mexico City is a stark example: it has sunk over 10 metres in the last century due to excessive groundwater extraction, and its water crisis is intensifying.
 
-*** Extreme weather
+Cape Town faced a similar threat. In 2018, after years of drought and overuse, the city was 90 days away from 'Day Zero' — the point when municipal water supplies would be shut off, and residents would have to queue for daily rations. Through severe restrictions, public campaigns, and emergency measures, disaster was narrowly avoided. But the warning is clear: once an aquifer is depleted, no amount of rain or dams can restore it quickly. Cities worldwide are on the brink, and when the taps run dry, it's not a slow decline — it's panic, migration, collapse. You can live without oil. You can't live without water.
 
-  Floods that used to happen once a century now drown cities every few years. Droughts parch once-fertile lands into cracked deserts. Heatwaves cook crops in the fields and kill thousands in places where air conditioning was once thought unnecessary. From California’s year-round fire season to Pakistan’s drowned fields, extreme weather is no longer “extreme” — it’s the new background hum. Infrastructure built for a mild, stable climate cannot cope: roads buckle, grids fail, houses wash away. As weather becomes unpredictable, everything depending on predictability — farming, logistics, insurance, governance — begins to fray.
+** Soil Degradation
 
-** The age of self-destruction
+Civilisations don’t just fall to war — they fall when their land dies. The world’s richest soils took thousands of years to form, but we’re losing them 10 to 50 times faster than nature can replace them. Farming chemicals, monocultures, and over-tilling strip the earth bare until nothing will grow. The American Midwest, once the planet’s breadbasket, is bleeding out. It’s not just dust storms — it's the slow death of the land itself. When topsoil goes, crops fail even if it rains. You can’t eat promises, you can’t plant machines. Rome rotted its fields before it rotted its empire. We're doing it again — only bigger, and this time there’s nowhere left to move.
 
-  It doesn't take a genius to know that things are just not alright. The few examples from above are to drive that point home, but it's something we all deep down know: that what is going on is not sustainable. It's the greed that fuels more destruction and moral bankrupcy. Moral bankrupcy is a great litmus test of where we are at.
+** Extreme Weather
 
-  With the rather sour environment of highly abusing social networks, lying influencers being admired as stars, ever-present lobbying being able to pay their way for governments to (gladly) turn the blind eye to ecological problems and mainly, lying, deceit and "not my problem" attitude so ever present, I think we can quite safely say that we are, quite literaly living in the last days of Rome.
+Once, floods, fires, and storms were rare disasters. Now they’re just background noise. Australia, baked by record heat, swings straight into massive floods, drowning entire neighbourhoods. In Queensland, so many homes are now at risk that insurance is starting to vanish — and without insurance, communities collapse after every hit.
 
-  Please note that this isn't simplistic thinking, suggesting that there's a direct correlation between moral environment and deeper and wider systemic collapse. All is connected. If you have a farm and take soil samples in 10 random spots and they all look similar, the chance is that's how the whole soil underneath the farm is like. And as shown in the examples above, the system is rotten from the inside out.
+Europe used to fear droughts once a generation. Now southern Europe burns every summer, while storms flood cities in the north. Even North Africa, famous for deserts, saw snow falling in Morocco — a climate system wobbling where it shouldn’t.
 
-  Our mindset is the root of what we do. If we seeks to enrich ourselves on the expense of others, people and land alike, we will design systems that will allow us just that (spoiler: that's the cornerstone of current dollar-based economics). However, these systems have that "moral rot" embedded in them and are ultimately brittle and due to fail.
+Canada is burning, flooding, and freezing all in the same year. Wildfires gut towns. Hailstorms wreck crops. Rivers spill over into cities that once thought they were safe. And the U.S. is hammered on every front — hurricanes, megafires, endless storms. The cycle is speeding up, and every system we rely on — farming, transport, power grids — is getting hit harder, faster, and more often.
 
-  Perhaps, this link may not be so readily understood by everyone. It's superficially obvious to a certain point, but the true depth of this is very hard to see. Any kind of (true) spiritually, be it about harmony with nature such as in Shamanism or Indian sage's path to enlightenment will make one (eventually) trully appreciate this. I will keep exploring this topic in the following chapters.
+This isn’t about bad luck anymore. It’s the new normal, and it’s only just begun.
 
-  Anyway here comes the punchline:
+These were just a few of the biggest cracks. There’s more — and it’s spreading. Ageing infrastructure built for a stable climate is failing under floods, fires, and storms — roads, bridges, power grids, all crumbling faster than we can repair them. Global fertility rates are crashing, leading to ageing, shrinking, and unstable societies. Oceans, stripped by overfishing and poisoned by runoff, are losing their ability to feed us or buffer the climate. Mass migration is building like a pressure wave as regions become unlivable. I’ll break these down in the second part of this brochure.
 
-  #+begin_quote
-    The system we built depends on infinite extraction and infinite growth in a finite, living world that cannot support either.
-  #+end_quote
+* The Age of Self-Destruction
 
-** Oneness: the antidote to greed and destruction
+You don’t need data to feel it. Everyone knows something is deeply wrong. Greed isn’t a glitch — it is the system. Lies aren’t scandals — they’re the norm. The "not my problem" mindset runs deep, from government halls to ordinary homes. Social media turns deceit into currency. Governments and corporations openly loot the future while most people look away, numbed or distracted.
 
-  In the beginning, human beings lived naturally within Oneness. There was no sharp division between self and world, between the river and the one who drank from it, between the tree and the one who rested under it. Life simply was, and it was enough. The land, the animals, the seasons, the community — all were part of one living whole, and value was not separated from life itself. There was no need to think about meaning, ownership, or control; existence was its own fulfilment.
+Civilisations don’t collapse from outside blows — they rot inside first. When truth is worthless, when honour is mocked, when life is just a game of what you can take before someone else does, collapse isn’t a question. It’s automatic.
 
-  Over time, however, a sense of separation crept in. Humans began to see themselves as distinct from the rest of life, standing apart rather than within. From this separation grew fear, desire, and the urge to possess and control. Wealth shifted from being the natural abundance of life to symbols that could be accumulated — gold, money, property — even at the cost of harming the very life that once sustained them. The original unity was forgotten, and in its place arose the endless pursuit of abstract value, setting the stage for exploitation, ecological destruction, and inner emptiness.
+Our mindset shapes our systems. If we seek profit at the expense of others and the Earth, we design economies and structures that do exactly that — and carry their own destruction inside them. Spiritual traditions saw this long ago: the world outside reflects the world within. As above, so below. When inner rot becomes normal, outer collapse becomes inevitable.
 
-  Many traditions have preserved the memory of this lost Oneness. In the Bible, Adam and Eve’s expulsion from Eden symbolises the moment when innocence gave way to self-conscious grasping. In Buddhism, the endless cycle of craving and suffering — Samsara — arises from mistaking illusion for reality. In Hinduism, the age of Kali Yuga marks the decline into conflict and forgetting. Across cultures, the message is clear: paradise was not a place, but a state of being in harmony with life, and separation from it is the root of all suffering.
+#+begin_quote
+The system we built demands infinite growth and infinite extraction in a finite, living world that cannot survive either.
+#+end_quote
 
-  John Milton’s Paradise Lost echoes this deep pattern. It portrays how pride, the desire for independence from the whole, leads to a tragic exile from natural harmony. It is not merely a religious tale but a psychological truth: the loss of Oneness brings sorrow, but it also plants the seed of longing. Through awareness, humility, and remembrance, we are called to find our way back — not to the unconscious unity we once had, but to a conscious reunion with life, where value and life are once again one.
+* Lost Eden: Separation and Its Consequences
 
-  When balance is lost, life naturally seeks to heal itself, but not by snapping back to the past. A river that overflows its banks does not forget how to flow; it simply finds a deeper, steadier channel over time. In the same way, when humanity strayed too far into separation and pride, the answer was never to erase individuality, but to deepen it within a greater awareness of unity. True restoration is not a return to unconscious innocence, nor a collapse into chaos, but the growth of a strong tree rooted in both earth and sky. Life moves through excess and correction, but always tends toward a living centre — a conscious Oneness where both freedom and belonging are fulfilled.
+In the beginning, Oneness wasn’t an idea — it was how humans lived. Life wasn’t chopped into categories: self, world, animal, spirit. There was just life, unfolding. Drinking from a river, resting under a tree, living with the seasons — it was all one movement, one being.
 
-  We have strayed too far one way, it's only inevitable now that life will self-correct, whether we like it or not.
+This isn’t philosophy. Across time, people who stepped beyond the mind — mystics, sages, deep meditators, even those under LSD or other psychedelics — describe the same thing: a direct experience of undivided life. Different cultures gave it different names — Brahman, Great Spirit, Christ Consciousness — but they all point to the same reality: when the walls of thought fall, only unity remains.
+
+Separation was not evil. It was part of life’s unfolding. Individuality, self-awareness, choice — all of these needed some degree of division. Life was not meant to stay in unconscious unity forever. But the problem came when separation forgot its roots. When humans began to see themselves as apart, above, or against the rest of life, the wound opened.
+
+The true fall wasn’t gaining knowledge. It was losing memory. Forgetting that we are branches of the same tree, not owners of it. From that forgetting grew fear, control, greed — and the systems we see collapsing today.
+
+Returning doesn’t mean erasing the self or going back to unconscious innocence. It means standing fully in individuality, fully in choice — but knowing, living, breathing the truth that all life is still one field.
+
+The way forward isn’t building a new utopia. It’s remembering what we already are, and building from there.
+
+* The Path Forward: Conscious Return to Oneness
+
+Life, when thrown out of balance, seeks to heal itself. A river that overflows does not forget how to flow; it finds a deeper channel. Likewise, humanity’s excesses force a correction.
+
+True restoration is not regression into unconscious innocence, but a conscious reunion with life. It is the growth of a strong tree rooted in both earth and sky.
+
+We have strayed too far into separation. Correction is now inevitable. Life itself will guide the way back to a living centre — a conscious Oneness where both individuality and belonging are fulfilled.
 
 * Current system
 ** How global economy works
