@@ -1,6 +1,8 @@
 #+TITLE: Seeds of the New World
 
 ** Introduction
+*** TODO Add living rapidly accelerating across the globe
+The US goes down since the 70s.
 
 The collapse of our global systems was never a question of /if/ — only /when/. Built on endless growth in a finite world, they were designed to fail. Debt spirals, ecological exhaustion, social disintegration: the cracks are now impossible to hide.
 
@@ -126,9 +128,26 @@ The International Monetary Fund (IMF), the World Bank, and the World Trade Organ
 Trade agreements embedded asymmetries into law. Tariffs fell — but only for goods the West needed cheap. Intellectual property, financial services, and high-value goods remained heavily protected.
 When persuasion failed, pressure escalated: sanctions, destabilisations, even military interventions. Globalisation was never voluntary. It was enforced.
 
+**** Key Drivers of Collapse
+
+Key drivers were:
+- Lowering trade and financial barriers.
+- Building global institutions (IMF, World Bank, WTO).
+- Chasing cost efficiency over resilience.
+
+The result: a world optimised for profit, not survival.
+
+A system built on endless extraction cannot survive when even its imperial cores begin to collapse. In the United States and Europe, real wages have stagnated or declined for decades. Housing has become unaffordable. Food systems are degenerating. The working classes, once beneficiaries of globalisation’s loot, are now its casualties. When even the winners lose, collapse is no longer theoretical — it is happening.
+
 *** Core faults of the system
 
 **** Fiat money: gasoline on the fire
+
+Fiat didn’t start the fire. It poured fuel onto a house already burning.
+
+Empires like Spain, Britain, and the United States masked internal decay for centuries by looting real resources from abroad — gold, land, oil, labour. For a while, living standards in these nations rose. But after Nixon severed the dollar's link to gold in 1971, even that last tether to reality was cut. The system shifted from looting real goods to conjuring paper promises — and the rot spread even to the imperial cores themselves.
+
+This looted prosperity was never universal. It was built on the backs of enslaved peoples and stolen lands across the global South — from the gold mines of Latin America to the plantations of the Caribbean, from the forced extraction of African rubber and minerals to the puppet governments propped up to secure "banana republics" for U.S. corporations. While the imperial powers grew fat on stolen wealth, entire continents were stripped, poisoned, and shackled under debt and dependency — wounds that have never fully healed.
 
 Fiat currency removed the last brake on financial excess. No longer anchored to land, labour, or goods, value became a hallucination — infinite, mobile, and utterly detached.
 
@@ -138,31 +157,28 @@ With fiat came:
 - Massive debt spirals.
 - Capital hunting yield, not building real wealth.
 
-Fiat didn’t start the fire. It poured fuel onto a house already burning.
+Fiat didn’t cause the separation from life. It completed it.
 
-Speculative capital, unleashed by fiat, does not create wealth — it concentrates it. As asset bubbles inflate, the rich accumulate claims on a shrinking real economy, while the poor are left with debt and inflation. Fiat doesn’t just distort value. It weaponises inequality.
+**** Financialisation: hollowing economics
 
-**** Financialisation: the great severance from life
+Financialisation detached wealth from production, but it also set the stage for something even deeper: the hollowing of meaning itself.
 
-True wealth once meant fertile fields, healthy herds, skilled hands. Today, "wealth" means digits blinking on screens — divorced from earth, community, and survival.
+**** The Loss of Meaning
 
-Financialisation did more than shift economics — it shattered meaning:
-- Ownership without stewardship.
-- Extraction without regeneration.
-- Wealth without grounding in life.
+The loss of meaning is no longer abstract. It is lived daily by millions who sit at desks, staring at screens, moving information from one box to another, knowing — even if they cannot fully articulate it — that none of it matters. Work once meant producing something tangible: food, shelter, medicine, art. Today, most "work" has become soul-destroying: maintaining illusions, manufacturing compliance, chasing meaningless metrics. The result is everywhere — rising depression, mass alcohol and drug abuse, soaring suicide rates. Chronic dissatisfaction is not a glitch. It is life’s final protest against a system that demands energy without offering purpose.
 
-This is why everything today feels hollow. The real was abandoned for the speculative. Symbols replaced substance.
+Meaning cannot be faked. No salary, no title, no corporate mission statement can substitute for the feeling of creating something real, useful, beautiful, or healing. When life itself is treated as an externality, when contribution is replaced by performance, collapse moves from the edges of civilisation into the centre of the human soul.
 
 **** Globalisation: selling unity, delivering exploitation
 
-Globalisation promised prosperity and connection. It delivered:
-- Labour arbitrage: moving production to wherever protections were weakest.
+Globalisation promised prosperity, peace, and connection — a seamless world without borders. What it delivered was extraction, exploitation, and accelerating collapse.
+
+- Labour arbitrage: production flowed to wherever human rights were cheapest to ignore.
 - Ecological plunder: sacrificing forests, rivers, and oceans for quarterly profit.
-- Cultural erosion: turning ancient communities into consumer markets.
+- Cultural erosion: ancient communities were gutted and repackaged as markets.
+- Financial colonisation: speculative capital looted economies, collapsed currencies, and seized sovereignty without firing a shot.
 
-Capital went mobile. Accountability vanished. The system was built to devour, not endure.
-
-Globalisation did not just spread goods. It spread speculation: capital chasing yield across the world, extracting value without roots, accountability, or renewal. Speculation is not the enemy of exploitation — it is its perfect partner.
+Globalisation did not unite the world — it hollowed it out. The result is not resilience, but a brittle, dying system devouring its own foundations.
 
 *** Historical lessons
 
