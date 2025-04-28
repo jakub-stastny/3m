@@ -1,6 +1,6 @@
-#+TITLE: Collapse Awakening
+#+TITLE: Seeds of the New World
 
-* Introduction: A Time of Collapse and Reckoning
+** Introduction
 
 The collapse of our global systems was never a question of *if* — only *when*. Built on endless growth in a finite world, they were designed to fail. Debt spirals, ecological exhaustion, social disintegration: the cracks are now impossible to hide.
 
@@ -12,9 +12,9 @@ The goal here is not to mourn what’s dying, but to understand why it’s happe
 
 No saviour is coming. The responsibility, and the opportunity, are ours. Will you take it?
 
-** Signs of Systemic Failure
+*** Signs of Systemic Failure
 
-*** Financial System Breakdown
+**** Financial System Breakdown
 
 The U.S. is burning trust faster than dollars. Massive money printing, reckless spending, and Trump’s new tariffs have only sped things up. Countries are ditching the dollar, trading in anything else they can. Meanwhile, within about 10 years, nearly all tax revenue will be eaten by debt interest and Medicare alone — leaving nothing for anything else. Faith in the system is draining fast. Without trust, the dollar dies. Without the dollar, the U.S. can't function.
 
@@ -22,21 +22,21 @@ Fixing it means touching the untouchable. Raise taxes? Political suicide. Cut Me
 
 And if you think this doesn’t matter because you’re not in the U.S., think again. In a globalised world, everything is linked — finance, trade, supply chains. It’s not like the old days when one country could sink without dragging others down. Today it’s all one pond. When the dollar goes, the shockwaves hit everyone.
 
-*** End of Cheap Oil
+**** End of Cheap Oil
 
 The modern world runs on oil — and the cheap stuff is gone. What’s left is buried deep, dirtier, harder to reach, and costs far more to pull out. Shale oil kept the illusion alive for a while, but it’s already cracking. When oil prices jump, everything jumps: food, transport, medicine, heating, industry. Without cheap oil, cities choke, supply chains break, farming collapses. Feeding places like New York or Mexico City stops being logistics — it becomes survival. Solar panels and electric cars won’t fix it. They run on supply chains too, and those chains are already snapping.
 
-*** Water Scarcity
+**** Water Scarcity
 
 In dry climates, rivers and dams aren't the main source of water — it's underground aquifers. These natural reservoirs take centuries to fill but can be emptied in decades. When overdrawn, the ground above sinks, and the aquifer's capacity to hold water diminishes permanently. Mexico City is a stark example: it has sunk over 10 metres in the last century due to excessive groundwater extraction, and its water crisis is intensifying.
 
 Cape Town faced a similar threat. In 2018, after years of drought and overuse, the city was 90 days away from 'Day Zero' — the point when municipal water supplies would be shut off, and residents would have to queue for daily rations. Through severe restrictions, public campaigns, and emergency measures, disaster was narrowly avoided. But the warning is clear: once an aquifer is depleted, no amount of rain or dams can restore it quickly. Cities worldwide are on the brink, and when the taps run dry, it's not a slow decline — it's panic, migration, collapse. You can live without oil. You can't live without water.
 
-*** Soil Degradation
+**** Soil Degradation
 
 Civilisations don’t just fall to war — they fall when their land dies. The world’s richest soils took thousands of years to form, but we’re losing them 10 to 50 times faster than nature can replace them. Farming chemicals, monocultures, and over-tilling strip the earth bare until nothing will grow. The American Midwest, once the planet’s breadbasket, is bleeding out. It’s not just dust storms — it's the slow death of the land itself. When topsoil goes, crops fail even if it rains. You can’t eat promises, you can’t plant machines. Rome rotted its fields before it rotted its empire. We're doing it again — only bigger, and this time there’s nowhere left to move.
 
-*** Extreme Weather
+**** Extreme Weather
 
 Once, floods, fires, and storms were rare disasters. Now they’re just background noise. Australia, baked by record heat, swings straight into massive floods, drowning entire neighbourhoods. In Queensland, so many homes are now at risk that insurance is starting to vanish — and without insurance, communities collapse after every hit.
 
@@ -48,7 +48,7 @@ This isn’t about bad luck anymore. It’s the new normal, and it’s only just
 
 These were just a few of the biggest cracks. There’s more — and it’s spreading. Ageing infrastructure built for a stable climate is failing under floods, fires, and storms — roads, bridges, power grids, all crumbling faster than we can repair them. Global fertility rates are crashing, leading to ageing, shrinking, and unstable societies. Oceans, stripped by overfishing and poisoned by runoff, are losing their ability to feed us or buffer the climate. Mass migration is building like a pressure wave as regions become unlivable. I’ll break these down in the second part of this brochure.
 
-** The Age of Self-Destruction
+*** The Age of Self-Destruction
 
 You don’t need data to feel it. Everyone knows something is deeply wrong. Greed isn’t a glitch — it is the system. Lies aren’t scandals — they’re the norm. The "not my problem" mindset runs deep, from government halls to ordinary homes. Social media turns deceit into currency. Governments and corporations openly loot the future while most people look away, numbed or distracted.
 
@@ -60,7 +60,7 @@ Our mindset shapes our systems. If we seek profit at the expense of others and t
 The system we built demands infinite growth and infinite extraction in a finite, living world that cannot survive either.
 #+end_quote
 
-** Lost Eden: Separation and Its Consequences
+*** Lost Eden: Separation and Its Consequences
 
 In the beginning, Oneness wasn’t an idea — it was how humans lived. Life wasn’t chopped into categories: self, world, animal, spirit. There was just life, unfolding. Drinking from a river, resting under a tree, living with the seasons — it was all one movement, one being.
 
@@ -74,7 +74,7 @@ Returning doesn’t mean erasing the self or going back to unconscious innocence
 
 The way forward isn’t building a new utopia. It’s remembering what we already are, and building from there.
 
-** The Path Forward: Conscious Return to Oneness
+*** The Path Forward: Conscious Return to Oneness
 
 Life, when thrown out of balance, seeks to heal itself. A river that overflows does not forget how to flow; it finds a deeper channel. Likewise, humanity’s excesses force a correction.
 
@@ -82,9 +82,9 @@ True restoration is not regression into unconscious innocence, but a conscious r
 
 We have strayed too far into separation. Correction is now inevitable. Life itself will guide the way back to a living centre — a conscious Oneness where both individuality and belonging are fulfilled.
 
-* Current system
-** How global economy works
-*** Mechanics of the Global Economy and Globalisation
+** Current system
+*** How global economy works
+**** Mechanics of the Global Economy and Globalisation
 
 The global economy is the system of interlinked national economies, connected through flows of trade, finance, labour, and resources. When a farmer grows wheat in the US, sells it to China, and China uses the earned dollars to buy US bonds, we are seeing global economic interdependence in action. This integration increases efficiency but also systemic fragility, as local crises can ripple worldwide.
 
@@ -95,7 +95,7 @@ Key drivers of globalisation include:
 - Expanding financial systems and institutions (IMF, World Bank, WTO).
 - Constructing global supply chains for cost efficiency.
 
-*** Unsustainability: Fiat, Globalisation, and the Separation of Value from Life
+**** Unsustainability: Fiat, Globalisation, and the Separation of Value from Life
 
 The roots of modern unsustainability lie deeper than fiat money or globalisation policies. They are symptoms of an older fracture: the metaphysical separation of value from life.
 
@@ -108,7 +108,7 @@ This separation has profound consequences:
 
 Fiat money fuels hyperglobalisation by providing abundant, mobile capital chasing speculative profits. Globalisation, in turn, externalises the true costs onto distant lands, exploited workers, and the degraded environment.
 
-*** Gold Standard, Great Depression, and Monetary Rigidity
+**** Gold Standard, Great Depression, and Monetary Rigidity
 
 Under the classical gold standard (pre-1914), currencies were pegged to gold reserves. This theoretically limited inflation and disciplined governments from overspending. However, it also introduced dangerous rigidity: when the economy expanded, the money supply could not expand fast enough; when a crisis hit, liquidity could not be injected flexibly.
 
@@ -120,7 +120,7 @@ The core lesson is that:
 
 Thus, monetary systems must stay in balance with the living economy: tied enough to reality to maintain trust, but flexible enough to respond to life's natural volatility.
 
-*** Globalisation: Sustainability or Exploitation?
+**** Globalisation: Sustainability or Exploitation?
 
 In theory, globalisation could have enabled a more interconnected, cooperative world where cultures exchange goods, knowledge, and technologies for mutual benefit. In practice, it has almost always favoured speculation and exploitation.
 
@@ -136,7 +136,7 @@ A sustainable form of globalisation would require:
 
 In the absence of these structures, globalisation today operates fundamentally as an exploitative system, undermining its own foundations.
 
-*** Fiat: Root Cause or Symptom?
+**** Fiat: Root Cause or Symptom?
 
 Fiat money is not the original cause of systemic unsustainability. It is an accelerant — a mechanism that magnifies deeper forces already at play.
 
@@ -148,38 +148,38 @@ The structure of the issue can be summarised:
 - Speculation and exploitation = dynamic
 - Separation of value from life = original cause
 
-*** Final Framing
+**** Final Framing
 
 The crises of today — financial instability, ecological collapse, social fragmentation — are not merely the result of "bad money" or "bad policies." They are the terminal symptoms of a civilisation that, centuries ago, chose to pursue infinite accumulation of symbolic wealth while abandoning stewardship of the living Earth.
 
 Until value is once again re-anchored in life — land, ecosystems, communities, real production — any system, whether gold-based or fiat-based, will remain fundamentally unstable and unsustainable.
 
-* Models
-** Dying imperium
-*** Fourth turning
-** Cosmic
-*** Cross of the sleeping phoenix
+** Models
+*** Dying imperium
+**** Fourth turning
+*** Cosmic
+**** Cross of the sleeping phoenix
 
-* Prognosis
-** USA
-** EU
-** MX
+** Prognosis
+*** USA
+*** EU
+*** MX
 # CDMX water collapse
 # Narco system after drug trade sinks
 
-** BRICS+
+*** BRICS+
 
-* New hope
+** New hope
 
   Here's the thing: many people are already living in the new Earth. It's been such a quiet shift, many never noticed it. Yet, the wise don't need to shout and the truly powerful don't need to hit. More and more people joined the silent non-movement and started to grow their own produce, use eco-friendly technology and mainly -- and very much in line with the sleeping phoenix -- they took the responsibility for themselves.
 
   https://www.bbc.com/travel/article/20250425-the-us-island-where-cars-are-banned
 
-** Permaculture
+*** Permaculture
 
   https://www.resilience.org/stories/2020-05-15/fruit-trenches-cultivating-subtropical-plants-in-freezing-temperatures/
 
-** New non-tech
+*** New non-tech
 
   As soon as we fall in place, new doors will open.
 
@@ -187,7 +187,7 @@ Until value is once again re-anchored in life — land, ecosystems, communities,
 
   https://www.bbc.com/future/article/20240419-the-worms-that-eat-through-plastic
 
-** What I'm doing
+*** What I'm doing
 
   I want to add my example simply to show what's manageable for a single normal person to do. Because it's not really about what could theoretically be done (after spending 20 years studying it), but what's doable, manageable and realistic to learn and build within few short years.
 
