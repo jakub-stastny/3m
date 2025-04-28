@@ -90,17 +90,25 @@ This is not an accident. Life is correcting itself. As old systems break down, c
 
 ** An Economy Built to Exploit
 
-*** How the current system operates
+*** How the system works
 
-**** Mechanics of the global economy and hyperglobalisation
+**** Global Interdependence
 
 The global economy is a web of interlocked national systems, tied through flows of trade, finance, labour, and resources. A farmer grows wheat in Kansas, sells it to China; China uses the earned dollars to buy U.S. bonds; the U.S. uses bond sales to finance its deficits. Every node feeds another. Efficiency rose. Fragility exploded.
 
-Globalisation accelerated this interdependence. It began with colonial empires, hardened through the Industrial Revolution, and metastasised after 1945 with Bretton Woods. After 1990, deregulation and digital technologies birthed hyperglobalisation: instant capital flows, shattered supply chains, and a world lashed together by finance rather than culture.
+**** The Rise of Hyperglobalisation
+
+Globalisation accelerated this interdependence. It began with colonial empires, hardened through the Industrial Revolution, and metastasised after 1945 with Bretton Woods. After 1990, deregulation and digital technologies birthed hyperglobalisation: instant capital flows, stretched and fragmented supply chains, and a world lashed together by finance rather than culture.
+
+**** The Fall of Alternatives
 
 The fall of the Soviet Union in 1991 removed the last major alternative model to Western capitalism. Without a global counterweight, financial capitalism expanded unchecked, transforming globalisation from an economic trend into a planetary doctrine. Everything became a market. Every barrier to speculative capital was dismantled. The collapse of one empire cleared the field for the overreach of another.
 
-China took a different path. While it opened markets to global trade, it never fully surrendered control over capital or production. It used globalisation to strengthen the state, not dismantle it. Western leaders assumed that market integration would inevitably produce Western-style democracies. Instead, China proved that it was possible to exploit global capitalism without adopting its values — and today, it stands not as a disciple of the collapsing system, but as a rival shaping the post-collapse world.
+**** China’s Divergent Strategy
+
+China took a different path. While it opened markets to global trade, it never fully surrendered control over capital or production. It used globalisation to strengthen the state, not dismantle it. Western leaders assumed that market integration would inevitably produce Western-style democracies. Instead, China proved that it was possible to exploit global capitalism without adopting its values. Today, it stands not as a disciple of the collapsing system, but as a competitor within it — a power that may dominate the transition phase, but is still bound to the same underlying dynamics of exploitation and fragility.
+
+**** Supply Chain Fragility Exposed
 
 Beyond financial flows, the modern economy is built on intricate supply chains — a global circulatory system of ships, trucks, ports, and warehouses moving food, medicine, and critical goods across continents. These chains are invisible when they work, but brutally visible when they break. They depend on cheap oil, stable currencies, and political trust. Without them, production itself becomes meaningless. A factory in China, a farm in Argentina, a mine in Congo — none of it matters if the goods can't move. Globalisation did not just globalise production; it globalised dependency.
 
